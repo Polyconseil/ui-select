@@ -6,7 +6,10 @@
   "repository": {
     "url": "git://github.com/angular-ui/ui-select.git"
   },
-  "version": "0.12.0",
+  "publishConfig": {
+    "registry": "https://npm.polydev.blue"
+  },
+  "version": "0.12.0-polyconseil",
   "devDependencies": {
     "bower": "~1.3",
     "del": "~0.1.1",
